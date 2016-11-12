@@ -1,5 +1,5 @@
 # outclass-v3
 
-```npm install```
+`npm install`
 
-```gulp```
+`gulp`
