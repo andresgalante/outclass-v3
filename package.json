@@ -1,0 +1,21 @@
+{
+  "name": "outclass-v3",
+  "version": "1.0.0",
+  "description": "new outclass website",
+  "main": "index.js",
+  "dependencies": {
+    "browser-sync": "^2.17.5",
+    "gulp-plumber": "^1.1.0",
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.0",
+    "gulp-uglify": "^2.0.0"
+  },
+  "devDependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
