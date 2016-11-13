@@ -6751,6 +6751,17 @@ stron {
 .container {
   max-width: 980px;
 }
+.fa-check {
+  color: green;
+}
+.panel-default > .panel-heading {
+  background: #1786b9;
+  color: #fff;
+  text-transform: uppercase;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-weight: 700;
+}
 /* Common styles and resets */
 /* Individual styles and effects */
 /* Scale up */
